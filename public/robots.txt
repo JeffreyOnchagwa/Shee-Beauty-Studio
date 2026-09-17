@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://sheebeautystore.vercel.app/sitemap.xml
+Sitemap: https://shee-beauty-studio.vercel.app/sitemap.xml
